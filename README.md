@@ -1,6 +1,8 @@
 To-Do-List-for-Projects
 =======================
 
+Example:
+
 # To do
 - [ ] Post to Hacker News
 - [ ] Share HN post on Twitter
