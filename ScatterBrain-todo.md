@@ -1,4 +1,4 @@
-- [x] - ipv6 ve mac kontrolü
+- [ ] - ipv6 ve mac kontrolü
 - [ ] - user insterface
 - [ ] - User, Product, SystemUser, Log, MacList
 
