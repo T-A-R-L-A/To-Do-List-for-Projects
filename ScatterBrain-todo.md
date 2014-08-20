@@ -27,7 +27,7 @@
 - [ ] NetInfo
     - [ ] Variables (host, macadd, ipv4, ipv6, desc )
     - [ ] Create
-    - [ ] Update
+    - [ ] Delete
 
 - [ ] Log
     - [ ] Variables (action, datetime, username, ip, host )
