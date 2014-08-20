@@ -30,7 +30,7 @@
     - [ ] Delete
 
 - [ ] Log
-    - [ ] Variables (action, datetime, username, ip, host )
-    - [ ] Record
+    - [x] Variables (action, datetime, username, ip, host )
+    - [x] Record
     - [ ] List
-    - [ ] Backup
+    - [x] Backup
