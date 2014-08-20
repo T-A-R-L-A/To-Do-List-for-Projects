@@ -24,10 +24,9 @@
     - [ ] Generate
 
 
-- [ ] MacList
+- [ ] NetInfo
     - [ ] Variables (host, macadd, ipv4, ipv6, desc )
     - [ ] Create
-    - [ ] Delete
     - [ ] Update
 
 - [ ] Log
