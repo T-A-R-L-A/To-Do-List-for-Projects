@@ -25,8 +25,8 @@
 
 
 - [ ] NetInfo
-    - [ ] Variables (host, macadd, ipv4, ipv6, desc )
-    - [ ] Create
+    - [x] Variables (host, macadd, ipv4, ipv6, desc )
+    - [x] Create
     - [ ] Delete
 
 - [ ] Log
