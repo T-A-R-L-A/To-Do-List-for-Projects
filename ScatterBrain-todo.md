@@ -3,11 +3,11 @@
 - [ ] - User, Product, SystemUser, Log, MacList
 
 - [ ] User Class
-    - [ ] Variables (id, username, name, surname, desc, password, datetime, permission,  )
-    - [ ] Create
+    - [x] Variables (id, username, name, surname, desc, password, datetime, permission,  )
+    - [x] Create
     - [ ] Delete
     - [ ] Update
-    - [ ] Authentication
+    - [x] Authentication
 
 - [ ] Product Class
     - [ ] Variables (id, productname, expirydate, key, desc )
