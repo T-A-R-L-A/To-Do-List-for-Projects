@@ -1,5 +1,5 @@
-- [ ] - ipv6 ve mac kontrolü
-- [ ] - user insterface
+- [x] - ipv6 ve mac kontrolü
+- [ ] - user interface
 - [ ] - User, Product, SystemUser, Log, MacList
 
 - [ ] User Class
@@ -16,12 +16,12 @@
     - [ ] Update
     - [ ] List
 
-- [ ] SystemUser Class
-    - [ ] Variables (id, username, password, host, productname, desc )
-    - [ ] Create
-    - [ ] Delete
-    - [ ] Update
-    - [ ] Generate
+- [x] SystemUser Class
+    - [x] Variables (id, username, password, host, productname, desc )
+    - [x] Create
+    - [x] Delete
+    - [x] Update
+    - [x] Generate
 
 
 - [x] NetInfo
@@ -29,8 +29,8 @@
     - [x] Create
     - [x] Delete
 
-- [ ] Log
+- [x] Log
     - [x] Variables (action, datetime, username, ip, host )
     - [x] Record
-    - [ ] List
+    - [x] List
     - [x] Backup
