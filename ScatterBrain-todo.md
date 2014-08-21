@@ -24,10 +24,10 @@
     - [ ] Generate
 
 
-- [ ] NetInfo
+- [x] NetInfo
     - [x] Variables (host, macadd, ipv4, ipv6, desc )
     - [x] Create
-    - [ ] Delete
+    - [x] Delete
 
 - [ ] Log
     - [x] Variables (action, datetime, username, ip, host )
