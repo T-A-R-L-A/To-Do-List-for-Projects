@@ -32,5 +32,5 @@
 - [ ] Log
     - [x] Variables (action, datetime, username, ip, host )
     - [x] Record
-    - [ ] List
+    - [x] List
     - [x] Backup
