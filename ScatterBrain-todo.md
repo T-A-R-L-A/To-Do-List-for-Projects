@@ -1,5 +1,5 @@
-- [ ] - ipv6 ve mac kontrolü
-- [ ] - user insterface
+- [x] - ipv6 ve mac kontrolü
+- [ ] - user interface
 - [ ] - User, Product, SystemUser, Log, MacList
 
 - [ ] User Class
